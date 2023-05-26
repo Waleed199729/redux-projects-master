@@ -1,0 +1,15 @@
+.education_field > input {
+    display: inline;
+    flex-direction: column;
+    justify-content: center;
+    width: 20%;
+}
+
+.btn_remove {
+    float: right;
+}
+
+.btn_add {
+    float: right;
+
+}
